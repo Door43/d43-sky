@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sky:home|Door43 (sky)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sky|d43-sky repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sky/archive/master.zip|d43-sky.zip]]
+
+**Recent Changes**
+{{changes>ns = sky}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sky|Ethnologue data]]
+
